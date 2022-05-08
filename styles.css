@@ -1,0 +1,15 @@
+body {
+    background-color:  #EAF6F6;
+}   
+.circular {border-radius: 200%;}
+hr {
+    border-style: none;
+    border-top-style: dotted; 
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+}    
+h1 {color: #6FDFDF;
+    font-family:Georgia, 'Times New Roman', Times, serif;}
+h3 {color: #97C4B8;
+    font-family: Arial, Helvetica, sans-serif;}
